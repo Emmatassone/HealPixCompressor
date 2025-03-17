@@ -34,16 +34,14 @@ The project is organized into the following directories and files:
 ```
 healpix_project/
 │
-├── main.py # Entry point for the program
-├── healpix_processor.py # Class for compression and decompression
-├── visualization.py # Script for visualizing maps
-├── requirements.txt # List of dependencies
-│
-├── compressed_files/ # Directory to store compressed HDF5 files
-├── FITS_files/ # Directory containing input HEALPix FITS files
-├── notebooks/ # Directory for Jupyter notebooks (optional)
-│
-└── README.md # This file
+├── main.py
+├── healpix_processor.py 
+├── visualization.py 
+├── requirements.txt
+├── compressed_files/
+├── FITS_files/
+├── notebooks/
+└── README.md 
 ```
 ---
 
