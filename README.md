@@ -31,7 +31,7 @@ The decompression function performs the following steps:
 ## Project Structure
 
 The project is organized into the following directories and files:
-
+```
 healpix_project/
 │
 ├── main.py # Entry point for the program
@@ -44,6 +44,7 @@ healpix_project/
 ├── notebooks/ # Directory for Jupyter notebooks (optional)
 │
 └── README.md # This file
+```
 ---
 
 ## How to Run the Code
